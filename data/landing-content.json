@@ -1,0 +1,109 @@
+{
+  "landingPage": {
+    "heroSection": {
+      "headline": "Train with a State Champion: Elevate Your Game at Jerwaski Coleman Skills Clinic",
+      "subheadline": "Learn from Louisiana High School State Championship Coach Jerwaski Coleman. Develop Core Fundamentals, Enhance Speed & Agility, and Ignite Your Passion for Basketball in a Fun, Focused, and Expert-Led Environment.",
+      "visual": "[Insert a captivating image or short video of kids energetically participating in basketball drills or speed/agility exercises at your camp. Ideally, if possible, include an image of Jerwaski Coleman coaching or interacting with campers.]",
+      "ctaButton": {
+        "text": "Register Now for June 2nd - 5th!",
+        "link": "[Link to your Google Form/Payment Link]"
+      },
+      "supportingText": "Limited Spots Available! Don't miss out on this unique opportunity to learn from a State Champion Coach."
+    },
+    "meetTheCoachSection": {
+      "headline": "Meet Coach Jerwaski Coleman: Louisiana High School State Championship Coach & Your Camp Facilitator",
+      "image": "[Insert a professional and approachable photo of Jerwaski Coleman coaching, or a clear headshot. Ideally, if you have a photo of him with a championship trophy or team, that would be even more impactful, while still looking approachable.]",
+      "bodyText": "Hi, I'm Jerwaski Coleman, and I'm excited to invite you to Jerwand Skills Clinic! As the coach who led [Insert High School Name if applicable, if not, remove this part] to the Louisiana High School State Championship, and with [Number] years of coaching experience, I'm deeply passionate about developing young athletes and helping them achieve their basketball dreams.\n\nAt Jerwand Skills Clinic, we're not just running drills; we're building champions. We focus on mastering core basketball fundamentals, developing explosive speed and agility, and instilling a love for the game in a positive and high-energy environment. My coaching philosophy centers around individualized attention and creating a supportive space where every athlete, regardless of their current skill level, can improve and thrive. I'm eager to share my championship-level expertise and passion with you this summer!",
+      "optionalLink": {
+        "text": "[Learn More About Coach Jerwaski Coleman]",
+        "url": "[Link to a separate 'About Me' section if desired]"
+      }
+    },
+    "whatToExpectSection": {
+      "headline": "Experience Championship-Caliber Training at Jerwand Skills Clinic",
+      "features": [
+        {
+          "title": "Individualized Attention for All Skill Levels",
+          "description": "Whether you're just starting out or refining advanced techniques, our structured clinics, led by a State Championship Coach, are tailored to meet your specific needs."
+        },
+        {
+          "title": "Focus on Core Fundamentals",
+          "description": "We break down the essentials of basketball – dribbling, shooting, passing, defense – ensuring a solid foundation for future success, guided by championship-level coaching principles."
+        },
+        {
+          "title": "Explosive Speed & Agility Training",
+          "description": "Dedicated sessions, designed with championship performance in mind, to improve your footwork, speed, and agility, essential for any sport."
+        },
+        {
+          "title": "Engaging & Dynamic Drills",
+          "description": "Say goodbye to boring repetitions! We use fun, innovative, and effective drills to keep you motivated and learning efficiently, inspired by championship-winning strategies."
+        },
+        {
+          "title": "Positive and Supportive Environment",
+          "description": "We foster a culture of encouragement, teamwork, and sportsmanship, where every athlete feels valued and supported, under the guidance of an experienced and positive role model in Coach Coleman."
+        },
+        {
+          "title": "Daily Themes & Skill Spotlights",
+          "description": "Each day will have a specific theme to focus our training and make learning engaging (e.g., \"Dribbling Domination Day,\" \"Sharp Shooting Day\"). [Mention \"Themes of the day\" from your notes here if you have them planned]."
+        },
+        {
+          "title": "\"Winners of the Day\" Recognition",
+          "description": "We celebrate effort and progress with daily recognition to keep athletes motivated. [Mention \"Winners of the day\" from your notes]"
+        },
+        {
+          "title": "Player/Coach Interviews with Kids (During Breaks)",
+          "description": "Opportunity for campers to connect with Coach Coleman and potentially other experienced coaches and learn from their championship journey and insights. [Mention \"Players/coaches interview the kids\" from your notes, emphasizing Coach Coleman’s presence]."
+        }
+      ],
+      "visuals": "[Insert a small gallery or carousel of images showcasing different activities – drills, kids interacting, Coach Coleman guiding, speed/agility exercises. Prioritize images that include Coach Coleman actively involved in coaching.]"
+    },
+    "testimonialsSection": {
+      "headline": "Hear What Parents and Campers Say About Training with a Championship Coach!",
+      "testimonials": [
+        {
+          "quote": "My son was so excited to train with a State Championship Coach! He learned so much from Coach Coleman, and his basketball skills and confidence have improved dramatically. Highly recommend!",
+          "attribution": "[Parent Name], Coleman, Parent of Past Camper"
+        },
+        {
+          "quote": "The speed and agility drills were tough but awesome! It was cool learning from a coach who has won a championship. Definitely learned a lot!",
+          "attribution": "[Camper Name], Age [Age], Past Camper"
+        },
+        {
+          "quote": "We knew we were getting top-notch coaching when we signed up for Jerwand Skills Clinic, knowing Coach Coleman's background. The camp exceeded our expectations in every way!",
+          "attribution": "[Parent Name], Parent of Past Camper"
+        }
+      ],
+      "note": "Add 2-3 more testimonials here if you have them. If not, prioritize collecting testimonials that specifically mention Coach Coleman and his championship title after your first camp!"
+    },
+    "detailsRegistrationSection": {
+      "headline": "Camp Details & Registration for Championship-Level Training",
+      "details": [
+        {"label": "Dates", "value": "June 2nd - 5th [Your Dates]"},
+        {"label": "Time", "value": "[Specify Camp Times - e.g., 9:00 AM - 12:00 PM Daily]"},
+        {"label": "Location", "value": "[Specify Location - e.g., Coleman High School Gymnasium, [Address]]"},
+        {"label": "Ages", "value": "[Specify Age Range - e.g., Ages 8-14]"},
+        {"label": "Sports Focused", "value": "Basketball & Speed/Agility"},
+        {"label": "What to Bring", "value": "[List items - e.g., Water bottle, athletic shoes, basketball (optional), snacks]"},
+        {"label": "Active Calendar", "value": "[Link to your Active Calendar if you have one, or mention \"Daily Schedule Available on Website\"]"},
+        {"label": "Themes of the Day", "value": "[Briefly mention or link to a page with daily themes if you have them finalized]."}
+      ],
+      "registrationCta": {
+        "text": "Limited Spots Available! Register Today and Train with State Championship Coach Jerwaski Coleman at Jerwand Skills Clinic!",
+        "buttonText": "[Register Now - Secure Your Spot!]",
+        "link": "[Link to your Google Form/Payment Link]"
+      },
+      "qrCode": "[Display QR code linking to your website for easy access and updates, especially if promoting offline.]"
+    },
+    "footer": {
+      "contact": {
+        "email": "[Your Email Address]",
+        "phone": "[Your Phone Number (Optional)]"
+      },
+      "socialMedia": "[Social Media Icons with Links - Facebook, Instagram etc.]",
+      "sponsors": "[Sponsor Logos - if applicable]",
+      "copyright": "(c) [Year] Jerwand Skills Clinic",
+      "privacyPolicyLink": "[Privacy Policy Link (Basic if needed)]",
+      "websiteCredit": "Website by: [Your Name/Company if applicable - optional]"
+    }
+  }
+}
